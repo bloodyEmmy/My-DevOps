@@ -5,3 +5,4 @@
 ```yaml
 image: nginx:stable
 ```
+- В качестве примера использован [[Nginx]].

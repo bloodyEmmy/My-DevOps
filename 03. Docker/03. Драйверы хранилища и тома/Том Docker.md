@@ -20,6 +20,7 @@ sudo docker run -dit --name mynginx --mount source=myvol2,target=/test nginx:lat
 ```
 - `source=myvol2` - имя тома.
 - `target=/test` - путь внутри контейнера.
+- В качестве примера использован [[Nginx]].
 ***
 ***Адрес томов (через Snap).***
 `/var/snap/docker/common/var-lib-docker/volumes`
