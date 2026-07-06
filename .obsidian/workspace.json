@@ -27,16 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/03. Драйверы хранилища и тома/OverlayFS.md",
+                "file": "03. Docker/03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OverlayFS"
+              "title": "Драйвер хранилища (Storage Driver)"
+            }
+          },
+          {
+            "id": "916e66f21d832a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Docker/01. Контейнеризация и Docker/Контейнеризация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Контейнеризация"
+            }
+          },
+          {
+            "id": "697e984ab3709a1f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 286.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -208,35 +232,35 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "697e984ab3709a1f",
   "lastOpenFiles": [
+    "03. Docker/05. Docker Swarm/Сервис в Swarm.md",
+    "03. Docker/02. Контейнеры и образы/Контейнер.md",
+    "03. Docker/01. Контейнеризация и Docker/Docker.md",
+    "Гипервизор.md",
+    "09. Automation/временное.md",
+    "03. Docker/01. Контейнеризация и Docker/Контейнеризация.md",
+    "03. Docker/03. Драйверы хранилища и тома/Overlay2 (Storage Driver).md",
+    "03. Docker/03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
+    "03. Docker/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
+    "03. Docker/03. Драйверы хранилища и тома/Висячий том (Dangling Volume).md",
+    "03. Docker/03. Драйверы хранилища и тома/Tmpfs (Temporary file system).md",
+    "03. Docker/03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
+    "03. Docker/03. Драйверы хранилища и тома/Флаг монтировки ro.md",
+    "03. Docker/03. Драйверы хранилища и тома/Том Docker.md",
+    "03. Docker/01. Контейнеризация и Docker/Docker Engine.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/OverlayFS.md",
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Маршрутизатор (Роутер).md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/UnionFS.md",
     "03. Docker/03. Драйверы хранилища и тома/Backing Filesystem.md",
-    "03. Docker/03. Драйверы хранилища и тома/OverlayFS.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+    "03. Docker/00.02. Docker Команды/Commit команда Docker.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Виртуальная файловая система (VFS).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/Cgroups (Control Groups).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/Пространства имен (namespaces).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/Mount Namespace (Изоляция файловой системы).md",
-    "03. Docker/03. Драйверы хранилища и тома/Директория слоя (overlay2).md",
-    "03. Docker/03. Драйверы хранилища и тома/Драйвер хранилища (Storage Driver).md",
-    "03. Docker/03. Драйверы хранилища и тома/Том Docker.md",
-    "03. Docker/03. Драйверы хранилища и тома/Флаг монтировки ro.md",
-    "03. Docker/03. Драйверы хранилища и тома/Bind Mount (Монтирование каталогов с хоста).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/Пространства имен в proc.md",
-    "01. Operating Systems/Unix/00.01. Команды терминала/Ls команда терминала.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Таргеты (Systemd).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Proc (VFS).md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Жизненный цикл Systemd.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Бит setgid (SGID).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/PID Namespace (Изоляция дерева процессов).md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Systemd (Init).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/User Namespace (Изоляция прав).md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Операционная система (ОС).md",
-    "01. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Пакет.md",
-    "07. Client Server Architecture/API.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Ядро операционной системы.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Библиотечная функция.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Эмуляция.md",
     "02. Computer Networks/05. Прикладной уровень/05.04. Nginx",
     "08. Databases/Вступление",
     "08. Databases/PostgreSQL",
