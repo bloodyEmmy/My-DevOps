@@ -19,3 +19,4 @@ SELECT p.name, p.age
 FROM person p;
 -- Буква "p" == "person"
 ```
+<!--SR:!2026-07-13,1,230-->

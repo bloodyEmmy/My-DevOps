@@ -1,4 +1,4 @@
-#flashcards/databases  
+#flashcards/databases
 ***
 Используется для упорядочивания результатов по одному или нескольким столбцам (прим: алфавит, дата, размер числа и др.).
 - Всегда пишется в самом конце после [[WHERE оператор SQL|WHERE]].
@@ -30,3 +30,4 @@ ORDER BY name ASC;
 SELECT name, age FROM person
 ORDER BY age ASC, name DESC;
 ```
+<!--SR:!2026-07-15,3,250-->
