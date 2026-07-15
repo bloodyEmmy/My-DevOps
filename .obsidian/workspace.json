@@ -8,49 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6caf4d8086dc5530",
+            "id": "1e7b381748379d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
+                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Ручной запуск в CI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стадия (Stage) пайплайна в CI CD"
+              "title": "Ручной запуск в CI"
             }
           },
           {
-            "id": "80ed09972fc99b54",
+            "id": "f17f7904ab99bc28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
+                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Интеграционные тесты в CI CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Артефакты в CI CD"
+              "title": "Интеграционные тесты в CI CD"
             }
           },
           {
-            "id": "39b7e1d427c3efd6",
+            "id": "b9ac881cb9289383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Сценарий пайплайна (Конфигурационный файл) в CI CD.md",
+                "file": "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сценарий пайплайна (Конфигурационный файл) в CI CD"
+              "title": "Среда выполнения в CI CD (Executor, Экзекьютор)"
+            }
+          },
+          {
+            "id": "2b319be6ea19d9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Staging (Стейджинг, Стейдж, предпрод) в CI CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Staging (Стейджинг, Стейдж, предпрод) в CI CD"
+            }
+          },
+          {
+            "id": "356da84c980b6959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/CI CD/04. CD (Доставка)/Даунтайм (Downtime).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Даунтайм (Downtime)"
+            }
+          },
+          {
+            "id": "cc9c5d2cb7cc43d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перезагрузка Nginx на лету"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "атрибуты",
+                "query": "stagi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 238.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -223,36 +265,36 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "cc9c5d2cb7cc43d4",
   "lastOpenFiles": [
-    "09. Automation/CI CD/01. Основные термины/Сервер координатор (CI CD Master, Control Plane).md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Сценарий пайплайна (Конфигурационный файл) в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/Задача (Job) пайплайна в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/CI CD раннер.md",
-    "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Shell Executor в CI CD.md",
-    "01. Operating Systems/Unix/04. Окружение и Bash/Установка окружения.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Push Model в CI CD.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Docker Executor в CI CD.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/CI CD Pipeline (Пайплайн).md",
-    "09. Automation/CI CD/01. Основные термины/CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/CI (Continuous Integration).md",
-    "09. Automation/CI CD/01. Основные термины/CD (Continuous Delivery или Deployment).md",
-    "09. Automation/CI CD/01. Основные термины/Продакшен (Prod, Production).md",
-    "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/Алгоритм выполнения задачи в паплайне CI CD.md",
+    "ZDD (Zero Downtime Deployment).md",
+    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
+    "Правило обратной совместимости при деплое.md",
+    "Canary Deployment (Канареечный деплой).md",
+    "Blue Green Deployment (Сине зеленый деплой).md",
+    "Rolling Update (Поочередное обновление).md",
+    "09. Automation/CI CD/04. CD (Доставка)/Даунтайм (Downtime).md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Staging (Стейджинг, Стейдж, предпрод) в CI CD.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Интеграционные тесты в CI CD.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Два подхода проведения интеграционных тестов в CI CD.md",
     "09. Automation/CI CD/01. Основные термины/Деплой.md",
+    "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
+    "03. Docker/00.03. Swarm Команды/Service create команда Swarm.md",
+    "06. Computer Architecture/01. Процессор/Прерывание (Interrupt).md",
+    "06. Computer Architecture/01. Процессор/Мультипроцессорная обработка.md",
+    "06. Computer Architecture/01. Процессор/Вертикальный микрокод процессора.md",
+    "06. Computer Architecture/01. Процессор/Горизонтальный микрокод процессора.md",
+    "08. Databases/Вступление/Маппер (Mapper) в базе данных.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Docker Executor в CI CD.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Unit тесты.md",
+    "08. Databases/Вступление/Реляционная база данных.md",
+    "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Три типа артефактов в CI.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Ручной запуск в CI.md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Условия по веткам, тегам и изменениям файлов в CI.md",
     "09. Automation/CI CD/04. CD (Доставка)",
     "09. Automation/CI CD/03. CI (Сборка и тесты)",
-    "06. Computer Architecture/00. Ассемблер, трансляция и языки/Линковщик.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Проблема скрытой станции.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Engine API.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",
     "09. Automation/CI CD/01. Основные термины",
     "09. Automation/CI CD",

@@ -30,4 +30,4 @@ ORDER BY name ASC;
 SELECT name, age FROM person
 ORDER BY age ASC, name DESC;
 ```
-<!--SR:!2026-07-15,3,250-->
+<!--SR:!2026-07-23,8,250-->
