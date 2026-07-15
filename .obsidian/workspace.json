@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29bfc2ec5bf1d76f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/02. Взаимодействие/Pull Model в CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pull Model в CI CD"
-            }
-          },
-          {
-            "id": "74b94f9c2bc49b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/02. Взаимодействие/Агент (Оператор) в CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Агент (Оператор) в CI CD"
-            }
-          },
-          {
-            "id": "97b30af98447c6ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Docker/00.04. Compose Команды/Networks раздел Compose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Networks раздел Compose"
-            }
-          },
-          {
-            "id": "a697915e6c358b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Daemon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Daemon"
-            }
-          },
-          {
-            "id": "79046b1788464170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Атрибуты файла"
-            }
-          },
-          {
             "id": "5608eb6e74c2b36e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/02. Взаимодействие/Агент (Оператор) в CI CD.md",
+                "file": "09. Automation/CI CD/01. Основные участники/Продакшен (Prod, Production).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Агент (Оператор) в CI CD"
+              "title": "Продакшен (Prod, Production)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +170,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -267,8 +196,14 @@
   },
   "active": "5608eb6e74c2b36e",
   "lastOpenFiles": [
-    "09. Automation/CI CD/02. Взаимодействие/Pull Model в CI CD.md",
     "09. Automation/CI CD/02. Взаимодействие/Push Model в CI CD.md",
+    "09. Automation/CI CD/02. Взаимодействие/Pull Model в CI CD.md",
+    "09. Automation/CI CD/02. Взаимодействие/Агент (Оператор) в CI CD.md",
+    "09. Automation/CI CD/01. Основные участники/CI CD Pipeline (Пайплайн).md",
+    "09. Automation/CI CD/01. Основные участники/Сервер координатор (CI CD Master, Control Plane).md",
+    "09. Automation/CI CD/01. Основные участники/Алгоритм выполнения задачи в паплайне CI CD.md",
+    "09. Automation/CI CD/01. Основные участники/Деплой.md",
+    "09. Automation/CI CD/01. Основные участники/Продакшен (Prod, Production).md",
     "06. Computer Architecture/01. Процессор/Опрос состояний устройства (Polling).md",
     "06. Computer Architecture/01. Процессор/Процессор (CPU).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
@@ -282,19 +217,13 @@
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
     "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Собственные (встроенные) сетевые драйверы Docker.md",
     "Сеть Docker.md",
-    "09. Automation/CI CD/02. Взаимодействие/Агент (Оператор) в CI CD.md",
-    "09. Automation/CI CD/01. Основные участники/Сервер координатор (CI CD Master, Control Plane).md",
     "01. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Архивирование.md",
-    "09. Automation/CI CD/01. Основные участники/Алгоритм выполнения задачи в паплайне CI CD.md",
     "09. Automation/CI CD/02. Взаимодействие",
     "09. Automation/CI CD/01. Основные участники",
     "09. Automation/CI CD/01. Основные участники/CI CD раннер.md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Демон.md",
-    "09. Automation/CI CD/01. Основные участники/CI CD Pipeline (Пайплайн).md",
     "09. Automation/CI CD/01. Основные участники/CI CD.md",
     "09. Automation/CI CD/01. Основные участники/CI (Continuous Integration).md",
-    "09. Automation/CI CD/01. Основные участники/CD (Continuous Delivery или Deployment).md",
-    "09. Automation/CI CD/01. Основные участники/Деплой.md",
     "09. Automation/CI CD",
     "03. Docker/04. Docker Swarm/04.02. Устройство кластера",
     "03. Docker/04. Docker Swarm/04.01. Компоненты кластера",
