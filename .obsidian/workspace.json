@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e7b381748379d1c",
+            "id": "eb06d559ce5283e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Ручной запуск в CI.md",
+                "file": "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ручной запуск в CI"
-            }
-          },
-          {
-            "id": "f17f7904ab99bc28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Интеграционные тесты в CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интеграционные тесты в CI CD"
-            }
-          },
-          {
-            "id": "b9ac881cb9289383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Среда выполнения в CI CD (Executor, Экзекьютор)"
-            }
-          },
-          {
-            "id": "2b319be6ea19d9a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Staging (Стейджинг, Стейдж, предпрод) в CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Staging (Стейджинг, Стейдж, предпрод) в CI CD"
-            }
-          },
-          {
-            "id": "356da84c980b6959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/04. CD (Доставка)/Даунтайм (Downtime).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Даунтайм (Downtime)"
-            }
-          },
-          {
-            "id": "cc9c5d2cb7cc43d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Перезагрузка Nginx на лету"
+              "title": "Использование симлинков в деплое"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stagi",
+                "query": "откат",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 443.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -165,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поды (Pods) в Kubernetes.md",
+                "file": "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поды (Pods) в Kubernetes"
+              "title": "Обратные ссылки для Использование симлинков в деплое"
             }
           },
           {
@@ -245,8 +174,7 @@
               "title": "review-queue-list-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,15 +193,21 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "cc9c5d2cb7cc43d4",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "ZDD (Zero Downtime Deployment).md",
-    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
-    "Правило обратной совместимости при деплое.md",
-    "Canary Deployment (Канареечный деплой).md",
-    "Blue Green Deployment (Сине зеленый деплой).md",
-    "Rolling Update (Поочередное обновление).md",
+    "09. Automation/CI CD/04. CD (Доставка)/Expand and Contract стратегия.md",
+    "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
+    "09. Automation/CI CD/04. CD (Доставка)/Правило обратной совместимости при деплое.md",
+    "09. Automation/CI CD/04. CD (Доставка)/Rollback (Ролбэк, Откат) в CD.md",
+    "09. Automation/CI CD/04. CD (Доставка)/Canary Deployment (Канареечный деплой).md",
+    "09. Automation/CI CD/04. CD (Доставка)/Rolling Update (Поочередное обновление).md",
+    "09. Automation/CI CD/04. CD (Доставка)/Blue Green Deployment (Сине зеленый деплой).md",
+    "03. Docker/00.03. Swarm Команды/Service update команда Swarm.md",
+    "03. Docker/00.03. Swarm Команды/Service rollback команда Swarm.md",
+    "09. Automation/CI CD/04. CD (Доставка)/ZDD (Zero Downtime Deployment).md",
     "09. Automation/CI CD/04. CD (Доставка)/Даунтайм (Downtime).md",
+    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Обратный прокси сервер (Reverse proxy).md",
     "09. Automation/CI CD/03. CI (Сборка и тесты)/Staging (Стейджинг, Стейдж, предпрод) в CI CD.md",
     "09. Automation/CI CD/03. CI (Сборка и тесты)/Интеграционные тесты в CI CD.md",
     "09. Automation/CI CD/03. CI (Сборка и тесты)/Два подхода проведения интеграционных тестов в CI CD.md",
@@ -287,12 +221,6 @@
     "08. Databases/Вступление/Маппер (Mapper) в базе данных.md",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Docker Executor в CI CD.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Unit тесты.md",
-    "08. Databases/Вступление/Реляционная база данных.md",
-    "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Три типа артефактов в CI.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Ручной запуск в CI.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Условия по веткам, тегам и изменениям файлов в CI.md",
     "09. Automation/CI CD/04. CD (Доставка)",
     "09. Automation/CI CD/03. CI (Сборка и тесты)",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",
