@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5608eb6e74c2b36e",
+            "id": "6caf4d8086dc5530",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/01. Основные участники/Продакшен (Prod, Production).md",
+                "file": "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Продакшен (Prod, Production)"
+              "title": "Стадия (Stage) пайплайна в CI CD"
+            }
+          },
+          {
+            "id": "80ed09972fc99b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Артефакты в CI CD"
+            }
+          },
+          {
+            "id": "39b7e1d427c3efd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Сценарий пайплайна (Конфигурационный файл) в CI CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сценарий пайплайна (Конфигурационный файл) в CI CD"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 279.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -194,43 +223,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "5608eb6e74c2b36e",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "09. Automation/CI CD/02. Взаимодействие/Push Model в CI CD.md",
-    "09. Automation/CI CD/02. Взаимодействие/Pull Model в CI CD.md",
-    "09. Automation/CI CD/02. Взаимодействие/Агент (Оператор) в CI CD.md",
-    "09. Automation/CI CD/01. Основные участники/CI CD Pipeline (Пайплайн).md",
-    "09. Automation/CI CD/01. Основные участники/Сервер координатор (CI CD Master, Control Plane).md",
-    "09. Automation/CI CD/01. Основные участники/Алгоритм выполнения задачи в паплайне CI CD.md",
-    "09. Automation/CI CD/01. Основные участники/Деплой.md",
-    "09. Automation/CI CD/01. Основные участники/Продакшен (Prod, Production).md",
-    "06. Computer Architecture/01. Процессор/Опрос состояний устройства (Polling).md",
-    "06. Computer Architecture/01. Процессор/Процессор (CPU).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Символические ссылки (Мягкие, Симлинк).md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Daemon.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Контейнер.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Docker.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Syslog.md",
-    "03. Docker/00.04. Compose Команды/Networks раздел Compose.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Собственные (встроенные) сетевые драйверы Docker.md",
-    "Сеть Docker.md",
-    "01. Operating Systems/Unix/05. Инструменты/05.01. Файлы и архивы/Архивирование.md",
-    "09. Automation/CI CD/02. Взаимодействие",
-    "09. Automation/CI CD/01. Основные участники",
-    "09. Automation/CI CD/01. Основные участники/CI CD раннер.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Демон.md",
-    "09. Automation/CI CD/01. Основные участники/CI CD.md",
-    "09. Automation/CI CD/01. Основные участники/CI (Continuous Integration).md",
+    "09. Automation/CI CD/01. Основные термины/Сервер координатор (CI CD Master, Control Plane).md",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)/Сценарий пайплайна (Конфигурационный файл) в CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/Задача (Job) пайплайна в CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/CI CD раннер.md",
+    "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Shell Executor в CI CD.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Установка окружения.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Push Model в CI CD.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Docker Executor в CI CD.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/CI CD Pipeline (Пайплайн).md",
+    "09. Automation/CI CD/01. Основные термины/CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/CI (Continuous Integration).md",
+    "09. Automation/CI CD/01. Основные термины/CD (Continuous Delivery или Deployment).md",
+    "09. Automation/CI CD/01. Основные термины/Продакшен (Prod, Production).md",
+    "09. Automation/CI CD/01. Основные термины/Стадия (Stage) пайплайна в CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/Алгоритм выполнения задачи в паплайне CI CD.md",
+    "09. Automation/CI CD/01. Основные термины/Деплой.md",
+    "09. Automation/CI CD/04. CD (Доставка)",
+    "09. Automation/CI CD/03. CI (Сборка и тесты)",
+    "06. Computer Architecture/00. Ассемблер, трансляция и языки/Линковщик.md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
+    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Проблема скрытой станции.md",
+    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Engine API.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",
+    "09. Automation/CI CD/01. Основные термины",
     "09. Automation/CI CD",
     "03. Docker/04. Docker Swarm/04.02. Устройство кластера",
     "03. Docker/04. Docker Swarm/04.01. Компоненты кластера",
     "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker",
     "03. Docker/03. Сеть Docker/03.01. Основы устройства сети",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups"
+    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы"
   ]
 }

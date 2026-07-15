@@ -32,4 +32,4 @@ docker run -v /home/user/mydata:/app/data my-image
 ```bash
 sudo docker inspect -f '{{ json .Mounts }}' <ID контейнера>
 ```
-<!--SR:!2026-07-15,3,250-->
+<!--SR:!2026-07-24,9,250-->
