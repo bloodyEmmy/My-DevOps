@@ -13,15 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
+                "file": "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Push Model в CI CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Использование симлинков в деплое"
+              "title": "Push Model в CI CD"
+            }
+          },
+          {
+            "id": "9cd0b7c17825d8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Docker/00.02. Docker Команды/Inspect команда Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspect команда Docker"
+            }
+          },
+          {
+            "id": "8664fc4878963fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Сокет (Socket).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сокет (Socket)"
+            }
+          },
+          {
+            "id": "074ec00349405e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Файловая система"
+            }
+          },
+          {
+            "id": "855547e0335208a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "9a8a6d27d207306c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Системный вызов"
+            }
+          },
+          {
+            "id": "536d8d7665164e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0347. Top K Frequent Elements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0347. Top K Frequent Elements"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "откат",
+                "query": "сокет",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 243.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -94,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
+                "file": "09. Automation/временное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Использование симлинков в деплое"
+              "title": "Обратные ссылки для временное"
             }
           },
           {
@@ -174,7 +255,8 @@
               "title": "review-queue-list-view"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,34 +275,34 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "e0335aabd4c36c4b",
+  "active": "536d8d7665164e27",
   "lastOpenFiles": [
-    "09. Automation/CI CD/04. CD (Доставка)/Expand and Contract стратегия.md",
-    "09. Automation/CI CD/04. CD (Доставка)/Использование симлинков в деплое.md",
-    "09. Automation/CI CD/04. CD (Доставка)/Правило обратной совместимости при деплое.md",
-    "09. Automation/CI CD/04. CD (Доставка)/Rollback (Ролбэк, Откат) в CD.md",
-    "09. Automation/CI CD/04. CD (Доставка)/Canary Deployment (Канареечный деплой).md",
-    "09. Automation/CI CD/04. CD (Доставка)/Rolling Update (Поочередное обновление).md",
-    "09. Automation/CI CD/04. CD (Доставка)/Blue Green Deployment (Сине зеленый деплой).md",
-    "03. Docker/00.03. Swarm Команды/Service update команда Swarm.md",
-    "03. Docker/00.03. Swarm Команды/Service rollback команда Swarm.md",
-    "09. Automation/CI CD/04. CD (Доставка)/ZDD (Zero Downtime Deployment).md",
-    "09. Automation/CI CD/04. CD (Доставка)/Даунтайм (Downtime).md",
-    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
-    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Обратный прокси сервер (Reverse proxy).md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Staging (Стейджинг, Стейдж, предпрод) в CI CD.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Интеграционные тесты в CI CD.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Два подхода проведения интеграционных тестов в CI CD.md",
-    "09. Automation/CI CD/01. Основные термины/Деплой.md",
-    "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
-    "03. Docker/00.03. Swarm Команды/Service create команда Swarm.md",
-    "06. Computer Architecture/01. Процессор/Прерывание (Interrupt).md",
-    "06. Computer Architecture/01. Процессор/Мультипроцессорная обработка.md",
-    "06. Computer Architecture/01. Процессор/Вертикальный микрокод процессора.md",
-    "06. Computer Architecture/01. Процессор/Горизонтальный микрокод процессора.md",
-    "08. Databases/Вступление/Маппер (Mapper) в базе данных.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Среда выполнения в CI CD (Executor, Экзекьютор).md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Docker Executor в CI CD.md",
+    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0238. Product of Array Except Self.md",
+    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0128. Longest Consecutive Sequence.md",
+    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0049. Group Anagrams.md",
+    "05. Python/Sort в Python.md",
+    "05. Python/Sorted в Python.md",
+    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0347. Top K Frequent Elements.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Сокет (Socket).md",
+    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Непрерывные (короткие) HTTP соединения.md",
+    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Файловый дескриптор (FD).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
+    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Шлюз по умолчанию (Default Gateway).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Таргеты (Systemd).md",
+    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Docker.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Systemd (Init).md",
+    "02. Computer Networks/01. Топология, уровни и модели/Сервис уровня.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Файловая система.md",
+    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Передача данных через сокет и порт.md",
+    "06. Computer Architecture/04. Внешние устройства/Захват цикла памяти (Cycle Stealing).md",
+    "06. Computer Architecture/04. Внешние устройства/Спулинг (Spooling).md",
+    "06. Computer Architecture/02. ОЗУ/Расслоение памяти (Интерливинг).md",
+    "06. Computer Architecture/02. ОЗУ/Прямой доступ к памяти (ПДП, DMA).md",
+    "06. Computer Architecture/02. ОЗУ/Относительная адресация.md",
+    "06. Computer Architecture/02. ОЗУ/Оперативная память (ОЗУ).md",
+    "06. Computer Architecture/02. ОЗУ/Метод ключей защиты памяти.md",
+    "06. Computer Architecture/02. ОЗУ/Метод граничных регистров.md",
+    "06. Computer Architecture/02. ОЗУ/Двойная буферизация.md",
     "09. Automation/CI CD/04. CD (Доставка)",
     "09. Automation/CI CD/03. CI (Сборка и тесты)",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",

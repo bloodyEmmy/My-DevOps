@@ -1,4 +1,4 @@
-#flashcards/databases 
+#flashcards/databases
 ***
 Используется для фильтрации строк (в отличие от [[SELECT оператор SQL|SELECT]], который смотрит столбцы).
 - Нужен для фильтрации данных по заданному условию.
@@ -16,11 +16,11 @@ WHERE <условие>;
 - ***Текст и даты*** - в одинарных кавычках! `WHERE name = 'Anna'` или `WHERE visit_date = '2022-01-01'`.
 ***
 ***Логические операторы.***
-1. AND - несколько условий выполняются одновременно.
+1. `AND` - несколько условий выполняются одновременно.
 ```SQL
 SELECT * FROM person WHERE gender = 'male' AND age > 18;
 ```
-2. OR - выполняется хотя бы одно из условий.
+2. `OR` - выполняется хотя бы одно из условий.
 ```SQL
 SELECT * FROM person WHERE city = 'Moscow' OR city = 'Kazan';
 ```
@@ -29,3 +29,4 @@ SELECT * FROM person WHERE city = 'Moscow' OR city = 'Kazan';
 SELECT * FROM person
 WHERE gender = 'male' AND (city = 'Moscow' OR city = 'Kazan');
 ```
+<!--SR:!2026-07-17,1,230-->

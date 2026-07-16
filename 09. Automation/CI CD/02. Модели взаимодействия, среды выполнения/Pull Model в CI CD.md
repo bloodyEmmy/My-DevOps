@@ -1,6 +1,6 @@
 #flashcards/automation/cicd 
 ***
-В отличие от [[Push Model в CI CD|Push model]], мы забираем у [[CI CD раннер|раннера]] все [[SSH (Secure Shell)|SSH]]-ключи и пароли от [[Продакшен (Prod, Production)|продакшена]], на который тот шлет данные.
+В отличие от [[Push Model в CI CD|Push model]], мы забираем у [[CI CD раннер|раннера]] все [[SSH (Secure Shell)|SSH]]-ключи и пароли от [[Продакшн (Prod, Production)|продакшна]], на который тот шлет данные.
 - Теперь наш сервер закрыт и никто снаружи не может зайти на него и работать внутри.
 - Раннеру не нужно возиться с [[Network Address Translation (NAT)|NAT]], [[Межсетевой экран (Брандмауэр, Firewall)|Firewall]] и др.
 ***

@@ -14,4 +14,4 @@ docker service update <флаги> <сервис>
 5. `--mount-add type=<type>,source=<source>,target=<target>` - Добавить [[Bind Mount (Монтирование каталогов с хоста)|бинд]].
 6. `--mount-rm <target>` - Удалить бинд.
 7. `--rollback` - Откатить к предыдущей версии. По сути - [[Service rollback команда Swarm|rollback]].
-<!--SR:!2026-07-15,3,250-->
+<!--SR:!2026-07-25,9,250-->
