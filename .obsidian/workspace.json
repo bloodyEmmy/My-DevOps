@@ -4,24 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "9074302aa168b4b3",
+        "id": "2018c75d7bd0f908",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7045eae1a3d2f7",
+            "id": "bfb3d27d64f018b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Python/Isalnum Python.md",
+                "file": "07. Client Server Architecture/Отпечаток сервера (SSH Key Fingerprint).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isalnum Python"
+              "title": "Отпечаток сервера (SSH Key Fingerprint)"
+            }
+          },
+          {
+            "id": "7fb936dc1d4d9d05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обнаружение и исправление ошибок Канальным уровнем OSI"
+            }
+          },
+          {
+            "id": "14b05d55ff823c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Automation/временное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "временное"
+            }
+          },
+          {
+            "id": "54b154e2fec6baf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "641b12de3414f5e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -195,34 +243,34 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "1f7045eae1a3d2f7",
+  "active": "641b12de3414f5e7",
   "lastOpenFiles": [
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0242. Valid Anagram.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0217. Contains Duplicate.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0125. Valid Palindrome.md",
-    "05. Python/Isalnum Python.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0049. Group Anagrams.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Easy/0001. Two Sum.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0347. Top K Frequent Elements.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0238. Product of Array Except Self.md",
-    "04. Algorithms and Data Structures/Задачи Leetcode/Medium/0128. Longest Consecutive Sequence.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Скользящее окно (Two Pointers).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Скользящее окно.md",
-    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Подтверждение получения данных Wi-Fi (Реализация CSMA CA).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Обмен данными по протоколу TCP, защита от ошибок.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Быстрый и медленный указатели.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Метод двух указателей (Two Pointers).md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Два встречных указателя.md",
-    "05. Python/Множество в Python.md",
-    "05. Python/Лямбда функция.md",
-    "04. Algorithms and Data Structures/Теория/Алгоритмы/Бинарный поиск.md",
-    "05. Python/Sort в Python.md",
-    "05. Python/Sorted в Python.md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/Сокет (Socket).md",
-    "02. Computer Networks/05. Прикладной уровень/05.02. HTTP/Непрерывные (короткие) HTTP соединения.md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Файловый дескриптор (FD).md",
+    "07. Client Server Architecture/Postman.md",
+    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Многоступенчатая сборка.md",
+    "09. Automation/CI CD/01. Основные термины/Артефакты в CI CD.md",
+    "07. Client Server Architecture/Сервер (Клиент Серверная Архитектура).md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Графическое окружение.md",
+    "07. Client Server Architecture/Endpoint в Клиент Серверной Архитектуре.md",
+    "09. Automation/временное.md",
     "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
-    "02. Computer Networks/03. Сетевой уровень/03.01. Маршрутизация/Шлюз по умолчанию (Default Gateway).md",
+    "02. Computer Networks/02. Канальный уровень/02.01. Основы устройства уровня и кадров/Обнаружение и исправление ошибок Канальным уровнем OSI.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Обмен данными по протоколу TCP, защита от ошибок.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Скользящее окно.md",
+    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Перегрузка в TCP.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Таргеты (Systemd).md",
+    "02. Computer Networks/01. Топология, уровни и модели/Сервис уровня.md",
+    "07. Client Server Architecture/Отпечаток сервера (SSH Key Fingerprint).md",
+    "01. Operating Systems/Unix/05. Инструменты/05.03. Сеть/SSH (Secure Shell).md",
+    "02. Computer Networks/01. Топология, уровни и модели/Протокол уровня.md",
+    "03. Docker/04. Docker Swarm/Метка (Label).md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.03. Namespaces, Cgroups/User Namespace (Изоляция прав).md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Proc (VFS).md",
+    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/MAC-адрес.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Cp команда терминала.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
+    "01. Operating Systems/Unix/00.02. Системные вызовы/Chown системный вызов.md",
+    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Фрагментация.md",
+    "02. Computer Networks/05. Прикладной уровень/05.03. Основы Proxy/Идентификация.md",
     "09. Automation/CI CD/04. CD (Доставка)",
     "09. Automation/CI CD/03. CI (Сборка и тесты)",
     "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",

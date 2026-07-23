@@ -24,4 +24,4 @@ sudo docker run -dit --name mynginx --mount source=myvol2,target=/test nginx:lat
 ***
 ***Адрес томов (через Snap).***
 `/var/snap/docker/common/var-lib-docker/volumes`
-<!--SR:!2026-07-19,7,250-->
+<!--SR:!2026-08-10,18,250-->
