@@ -1,4 +1,4 @@
-#flashcards/os/Unix 
+#flashcards/os/Unix
 ***
 ***Расшифровка:*** Client [[Uniform Resource Locator (URL)|URL]].
 Консольная [[Утилита|утилита]] для отправки запросов на [[Сервер (Клиент Серверная Архитектура)|серверы]] и скачивания данных.
@@ -27,3 +27,4 @@ curl -X POST https://mysite.com -d "username=ivan&password=123"
 
 curl -X POST https://mysite.com \ -H "Content-Type: application/json" \ -d '{"player1_id": 42, "is_vs_computer": true}'
 ```
+<!--SR:!2026-07-27,3,250-->

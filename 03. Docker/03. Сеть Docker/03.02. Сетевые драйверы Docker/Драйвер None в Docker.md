@@ -16,4 +16,4 @@
 docker run -it --network none alpine sh
 ```
 - Использована команда [[Run команда Docker|run]].
-<!--SR:!2026-07-23,8,250-->
+<!--SR:!2026-07-27,4,230-->

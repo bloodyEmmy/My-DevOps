@@ -25,4 +25,4 @@ docker cp test.txt my_container:/app/
 ```bash
 docker cp my_container:/app/test.txt ./test.txt
 ```
-<!--SR:!2026-07-19,3,250-->
+<!--SR:!2026-08-01,9,250-->
