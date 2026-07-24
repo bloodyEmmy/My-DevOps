@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2018c75d7bd0f908",
+        "id": "5a8be7c032679d3e",
         "type": "tabs",
         "children": [
           {
-            "id": "a899049a04c73db3",
+            "id": "6ae079a4cb1823fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/Vagrant/01. Основы виртуализации/Прямой проброс в работе виртуальной машины.md",
+                "file": "09. Automation/Vagrant/02. База Vagrant/Provisioner (Провижионер) в Vagrant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прямой проброс в работе виртуальной машины"
+              "title": "Provisioner (Провижионер) в Vagrant"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 254.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -196,32 +196,33 @@
   },
   "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
-    "09. Automation/Vagrant/02. База Vagrant",
-    "Реализация общения виртуальной машины с хостом.md",
-    "09. Automation/Vagrant/01. Основы виртуализации/Прямой проброс в работе виртуальной машины.md",
-    "09. Automation/Vagrant/01. Основы виртуализации/Паравиртуализация (VirtIO).md",
+    "09. Automation/Vagrant/02. База Vagrant/Vagrant.md",
+    "09. Automation/Vagrant/02. База Vagrant/Provisioner (Провижионер) в Vagrant.md",
+    "09. Automation/Vagrant/02. База Vagrant/Vagrantfile.md",
+    "09. Automation/Vagrant/02. База Vagrant/Boxes (Боксы) в Vagrant.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Графическое окружение.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Командная оболочка.md",
+    "03. Docker/05. Docker Compose/Docker Compose.md",
+    "03. Docker/05. Docker Compose/Переменные окружения в Docker Compose.md",
+    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Управляющий узел (manager node) в Swarm.md",
+    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Состояния задачи в Swarm.md",
+    "09. Automation/Vagrant/02. База Vagrant/Три типа провайдеров в Vagrant.md",
+    "09. Automation/Vagrant/02. База Vagrant/Providers (Провайдеры) в Vagrant.md",
+    "09. Automation/Vagrant/02. База Vagrant/Отличие гипервизора от провайдера Vagrant.md",
+    "Поды (Pods) в Kubernetes.md",
+    "09. Automation/Vagrant/02. База Vagrant/Vagrant Cloud.md",
+    "09. Automation/Vagrant/01. Основы виртуализации/Виртуальный жесткий диск.md",
     "09. Automation/Vagrant/01. Основы виртуализации/Полная эмуляция в работе виртуальных машин.md",
-    "09. Automation/Vagrant/01. Основы виртуализации/Реализация изоляции виртуальной машины.md",
+    "09. Automation/Vagrant/01. Основы виртуализации/Паравиртуализация (VirtIO).md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Ядро операционной системы.md",
+    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
     "09. Automation/Vagrant/01. Основы виртуализации/Virtqueues (Кольцевые буферы).md",
-    "01. Operating Systems/Unix/03. Ввод, вывод и потоки/03.01. Потоки и дескрипторы/Файловый дескриптор (FD).md",
-    "04. Algorithms and Data Structures/Теория/Структуры данных/Массив.md",
-    "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Overlay в Docker.md",
-    "02. Computer Networks/02. Канальный уровень/02.03. Адресация, построение соединений/VLAN.md",
-    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Docker Swarm.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/RRT (Round Trip Time).md",
-    "01. Operating Systems/Unix/05. Инструменты/05.02. Поиск/Операции в find, определяемые пользователем (exec).md",
-    "06. Computer Architecture/02. ОЗУ/Виртуальная память.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Три типа артефактов в CI.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Управление статусом (Exit Code) в CI.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Условия по веткам, тегам и изменениям файлов в CI.md",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)/Условия по статусу в CI.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Режимы работы компьютера.md",
-    "06. Computer Architecture/01. Процессор/Кольца защиты процессора (Protection Rings).md",
-    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Перезагрузка Nginx на лету.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/AIMD.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.02. Перегрузка/Окно перегрузки.md",
-    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Резолвер (Stub Resolver).md",
+    "09. Automation/Vagrant/01. Основы виртуализации/Реализация изоляции виртуальной машины.md",
+    "09. Automation/Vagrant/01. Основы виртуализации/Прямой проброс в работе виртуальной машины.md",
+    "Kubernetes.md",
+    "Endpoint.md",
+    "01. Operating Systems/Unix/04. Окружение и Bash/Терминал, Эмулятор терминала.md",
+    "09. Automation/Vagrant/02. База Vagrant",
     "09. Automation/Vagrant/01. Основы виртуализации",
     "09. Automation/Vagrant",
     "09. Automation/CI CD/04. CD (Доставка)",
@@ -230,7 +231,6 @@
     "09. Automation/CI CD/01. Основные термины",
     "09. Automation/CI CD",
     "03. Docker/04. Docker Swarm/04.02. Устройство кластера",
-    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker"
+    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера"
   ]
 }
