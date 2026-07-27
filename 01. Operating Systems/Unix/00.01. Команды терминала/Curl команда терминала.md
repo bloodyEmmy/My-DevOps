@@ -27,4 +27,4 @@ curl -X POST https://mysite.com -d "username=ivan&password=123"
 
 curl -X POST https://mysite.com \ -H "Content-Type: application/json" \ -d '{"player1_id": 42, "is_vs_computer": true}'
 ```
-<!--SR:!2026-07-27,3,250-->
+<!--SR:!2026-08-04,8,250-->

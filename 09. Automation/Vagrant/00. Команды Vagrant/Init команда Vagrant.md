@@ -1,4 +1,4 @@
-#flashcards/automation/Vagrant 
+#flashcards/automation/Vagrant
 ***
 Инициализирует новый проект [[Vagrant]] в текущей папке.
 - Она не трогает [[Гипервизор|гипервизор]] и не качает ничего из [[Vagrant Cloud]], а просто создает текстовый файл [[Vagrantfile]].
@@ -10,3 +10,4 @@ vagrant init
 vagrant init ubuntu/noble64
 ```
 - Вторая команда создает шаблон под конкретную систему через конкретный [[Boxes (Боксы) в Vagrant|бокс]], известный заранее.
+<!--SR:!2026-07-29,3,250-->

@@ -1,4 +1,4 @@
-#flashcards/automation/Vagrant 
+#flashcards/automation/Vagrant
 ***
 Позволяет ВМ получать пакеты извне.
 - По умолчанию [[Vagrant]] настраивает [[Сеть в Vagrant|сеть]] в режиме [[Network Address Translation (NAT)|NAT]] => [[Виртуальная машина|виртуалка]] имеет доступ в Интернет, но снаружи к ней обратиться нельзя.
@@ -11,3 +11,4 @@ Vagrant.configure("2") do |config|
   config.vm.network "forwarded_port", guest: 80, host: 8080
 end
 ```
+<!--SR:!2026-07-29,3,250-->
