@@ -4,161 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "94139868ef44bdbc",
+        "id": "34c8aeb35521918d",
         "type": "tabs",
         "children": [
           {
-            "id": "0f011fc8f70ff17f",
+            "id": "55e9f76dc460da2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Automation/Vagrant/03. Устройство Vagrantfile/Shell Provisioner в Vagrantfile.md",
+                "file": "09. Automation/03. Ansible/Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell Provisioner в Vagrantfile"
+              "title": "Ansible"
             }
           },
           {
-            "id": "7b577126d6715cbe",
+            "id": "6aedfefa72ac74e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/02. Канальный уровень/02.02. Ethernet/Уровни Ethernet.md",
+                "file": "Группа хостов в Inventory Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уровни Ethernet"
+              "title": "Группа хостов в Inventory Ansible"
             }
           },
           {
-            "id": "eebc2094f92e2961",
+            "id": "ad38b18aab9f7c33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/00.02. Docker Команды/Exec команда Docker.md",
+                "file": "Встроенные группы хостов в Inventory Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exec команда Docker"
+              "title": "Встроенные группы хостов в Inventory Ansible"
             }
           },
           {
-            "id": "03b0fda62ad4c500",
+            "id": "62e165d2c26c58df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Docker/00.03. Swarm Команды/Swarm join команда Swarm.md",
+                "file": "Дочерние группы хостов в Inventory Ansible.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swarm join команда Swarm"
-            }
-          },
-          {
-            "id": "9a19b8de98afa410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endpoint.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Endpoint"
-            }
-          },
-          {
-            "id": "6c88376ae2c0b876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/Vagrant/00. Команды Vagrant/Halt команда Vagrant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Halt команда Vagrant"
-            }
-          },
-          {
-            "id": "c0fdaea08b2655bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Docker/02. Монтирование и тома/Overlay2 (Storage Driver).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overlay2 (Storage Driver)"
-            }
-          },
-          {
-            "id": "95d756e8af1c3869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Режимы работы компьютера.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Режимы работы компьютера"
-            }
-          },
-          {
-            "id": "e3f6cc4165c43153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.03. Основы работы ОС/Основные состояния процессов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основные состояния процессов"
-            }
-          },
-          {
-            "id": "040d4cc6dbbd025d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Automation/CI CD/03. CI (Сборка и тесты)/Работа артефактов в CI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Работа артефактов в CI"
-            }
-          },
-          {
-            "id": "12a1b9c0e9bdc88c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Дочерние группы хостов в Inventory Ansible"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -331,43 +237,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "12a1b9c0e9bdc88c",
+  "active": "e0335aabd4c36c4b",
   "lastOpenFiles": [
+    "Встроенные группы хостов в Inventory Ansible.md",
+    "Дочерние группы хостов в Inventory Ansible.md",
+    "Группа хостов в Inventory Ansible.md",
+    "Inventory (Инвентарь) в Ansible.md",
+    "09. Automation/03. Ansible/Ansible.md",
+    "09. Automation/03. Ansible/Работа Ansible с DNS.md",
+    "02. Computer Networks/05. Прикладной уровень/05.01. Основы, DNS/Протокол DNS.md",
+    "07. Client Server Architecture/Клиент Серверная Архитектура.md",
+    "09. Automation/02. Vagrant/03. Устройство Vagrantfile/Ansible Provisioner в Vagrantfile.md",
+    "09. Automation/02. Vagrant/02. База Vagrant/Ansible Provisioner в Vagrant.md",
+    "Playbook (Плейбук, Сценарий) в Ansible.md",
+    "Module (Модуль) в Ansible.md",
+    "Modules (Модули) в Ansible.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Бит setgid (SGID).md",
+    "09. Automation/03. Ansible",
     "01. Operating Systems/Unix/00.01. Команды терминала/Which команда терминала.md",
     "01. Operating Systems/Unix/00.01. Команды терминала/Alias команда терминала.md",
     "02. Computer Networks/04. Транспортный уровень/04.01. Порты, сокеты, UDP/VXLAN.md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/UnionFS.md",
-    "09. Automation/Vagrant/00. Команды Vagrant/Ssh команда Vagrant.md",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения/Shell Executor в CI CD.md",
+    "09. Automation/02. Vagrant/00. Команды Vagrant/Ssh команда Vagrant.md",
+    "09. Automation/01. CI CD/02. Модели взаимодействия, среды выполнения/Shell Executor в CI CD.md",
     "04. Algorithms and Data Structures/Теория/Структуры данных/Кэширование.md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/Proc (VFS).md",
     "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/OverlayFS.md",
     "03. Docker/00.04. Compose Команды/Networks раздел Compose.md",
     "01. Operating Systems/Unix/05. Инструменты/05.03. Сеть/Loopback (Localhost).md",
     "01. Operating Systems/Unix/00.01. Команды терминала/Ip команда терминала.md",
-    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Docker Swarm.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Daemon.md",
-    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Управляющий узел (manager node) в Swarm.md",
-    "09. Automation/Vagrant/02. База Vagrant/Три типа провайдеров в Vagrant.md",
-    "09. Automation/Vagrant/01. Основы виртуализации/Прямой проброс в работе виртуальной машины.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Принцип работы драйвера Macvlan в Docker.md",
-    "09. Automation/Vagrant/01. Основы виртуализации/Паравиртуализация (VirtIO).md",
-    "09. Automation/Vagrant/02. База Vagrant/Отличие гипервизора от провайдера Vagrant.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Контейнеризация.md",
-    "06. Computer Architecture/01. Процессор/Кольца защиты процессора (Protection Rings).md",
-    "09. Automation/Vagrant/03. Устройство Vagrantfile/Изменение характеристик железа в Vagrantfile.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Иерархия памяти компьютера.md",
-    "03. Docker/03. Сеть Docker/03.02. Сетевые драйверы Docker/Драйвер Macvlan в Docker.md",
-    "09. Automation/Vagrant/03. Устройство Vagrantfile",
-    "09. Automation/Vagrant/00. Команды Vagrant",
-    "09. Automation/Vagrant/02. База Vagrant",
-    "09. Automation/Vagrant/01. Основы виртуализации",
-    "09. Automation/Vagrant",
-    "09. Automation/CI CD/04. CD (Доставка)",
-    "09. Automation/CI CD/03. CI (Сборка и тесты)",
-    "09. Automation/CI CD/02. Модели взаимодействия, среды выполнения",
-    "09. Automation/CI CD/01. Основные термины",
-    "09. Automation/CI CD"
+    "09. Automation/02. Vagrant/03. Устройство Vagrantfile",
+    "09. Automation/02. Vagrant/00. Команды Vagrant",
+    "09. Automation/02. Vagrant/02. База Vagrant",
+    "09. Automation/02. Vagrant/01. Основы виртуализации",
+    "09. Automation/02. Vagrant",
+    "09. Automation/01. CI CD/04. CD (Доставка)",
+    "09. Automation/01. CI CD/03. CI (Сборка и тесты)",
+    "09. Automation/01. CI CD/02. Модели взаимодействия, среды выполнения",
+    "09. Automation/01. CI CD/01. Основные термины"
   ]
 }
