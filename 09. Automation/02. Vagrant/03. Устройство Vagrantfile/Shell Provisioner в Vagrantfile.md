@@ -1,4 +1,4 @@
-#flashcards/automation/Vagrant 
+#flashcards/automation/Vagrant
 ***
 Самый базовый вариант [[Provisioner (Провижионер) в Vagrant|провижионера]].
 - Прочитать про него можно [[Shell Provisioner в Vagrant|здесь]].
@@ -17,3 +17,4 @@ SHELL
 config.vm.provision "shell", path: "filename.sh"
 ```
 - Файл должен лежать там же, где и [[Vagrantfile]].
+<!--SR:!2026-07-31,3,250-->

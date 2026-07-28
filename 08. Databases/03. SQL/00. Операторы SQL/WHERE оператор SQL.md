@@ -29,4 +29,4 @@ SELECT * FROM person WHERE city = 'Moscow' OR city = 'Kazan';
 SELECT * FROM person
 WHERE gender = 'male' AND (city = 'Moscow' OR city = 'Kazan');
 ```
-<!--SR:!2026-07-28,2,230-->
+<!--SR:!2026-08-02,5,230-->
