@@ -5,3 +5,4 @@
 ```bash
 docker compose images
 ```
+<!--SR:!2026-08-01,3,250-->

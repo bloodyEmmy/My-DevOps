@@ -16,4 +16,4 @@ curl -u ivan:my_secret_password123 https://mysite.com
 # 2 вариант - только логин. после этого curl остановит выполнение и запросит пароль
 curl -u ivan: https://mysite.com
 ```
-<!--SR:!2026-07-29,7,250-->
+<!--SR:!2026-08-15,17,250-->

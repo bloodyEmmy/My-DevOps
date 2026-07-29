@@ -11,4 +11,4 @@ LABEL maintainer="<почта>" \
 version="1.0" \
 description="My Docker"
 ```
-<!--SR:!2026-07-29,1,230-->
+<!--SR:!2026-07-30,1,210-->
