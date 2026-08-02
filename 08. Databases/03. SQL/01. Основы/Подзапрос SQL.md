@@ -1,4 +1,4 @@
-#flashcards/databases  
+#flashcards/databases
 ***
 Полноценный запрос [[SELECT оператор SQL|SELECT]], который вложен внутрь другого (внешнего) запроса.
 - Берется в круглые скобки `()`.
@@ -19,3 +19,4 @@ SELECT
 AS total_visits
 FROM person;
 ```
+<!--SR:!2026-08-02,3,250-->

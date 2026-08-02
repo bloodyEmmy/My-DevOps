@@ -16,4 +16,4 @@ ip addr
 ip addr eth0
 ip addr show vethd6c7895
 ```
-<!--SR:!2026-07-30,1,230-->
+<!--SR:!2026-08-06,5,230-->

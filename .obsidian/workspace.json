@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4cd543eecae0b7",
+        "id": "de6b70d22dfe6098",
         "type": "tabs",
         "children": [
           {
-            "id": "ee7d3eafc36441ff",
+            "id": "0397479880ec6313",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Operating Systems/Unix/00.01. Команды терминала/Less команда терминала.md",
+                "file": "01. Operating Systems/Unix/00.01. Команды терминала/Tty команда терминала.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Less команда терминала"
+              "title": "Tty команда терминала"
             }
           },
           {
-            "id": "f250f967cd5a5a16",
+            "id": "de70ed8cf8b08a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Типы IP-адресов.md",
+                "file": "08. Databases/01. Вступление/Состояние гонки (Race Condition).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типы IP-адресов"
+              "title": "Состояние гонки (Race Condition)"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -68,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 428.5
   },
   "right": {
     "id": "d039eb2cfe35e9ff",
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Типы IP-адресов.md",
+                "file": "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Протокол MACA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Типы IP-адресов"
+              "title": "Обратные ссылки для Протокол MACA"
             }
           },
           {
@@ -189,7 +191,8 @@
               "title": "review-queue-list-view"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,43 +211,43 @@
       "obsidian-spaced-repetition:Изучать карточки": false
     }
   },
-  "active": "f250f967cd5a5a16",
+  "active": "de70ed8cf8b08a1f",
   "lastOpenFiles": [
-    "07. Client Server Architecture/Кластер.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Tty команда терминала.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Passwd команда терминала.md",
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы/Push Model в Ansible.md",
+    "06. Computer Architecture/02. ОЗУ/Оперативная память (ОЗУ).md",
+    "06. Computer Architecture/01. Процессор/Процессор (CPU).md",
+    "06. Computer Architecture/01. Процессор/Ядро процессора.md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Агент (Оператор) в CI CD.md",
+    "09. Automation/02. CI CD/02. Модели взаимодействия, среды выполнения/Pull Model в CI CD.md",
+    "09. Automation/01. IaC/Самодокументируемость.md",
+    "09. Automation/01. IaC/Воспроизводимость.md",
+    "09. Automation/01. IaC/Декларативность.md",
+    "09. Automation/01. IaC/Идемпотентность.md",
+    "09. Automation/01. IaC/Single Source of Truth (SSoT).md",
+    "09. Automation/01. IaC/IaC.md",
+    "09. Automation/01. IaC/Императивность.md",
+    "Kubernetes.md",
+    "Endpoint.md",
+    "02. Computer Networks/05. Прикладной уровень/05.04. Nginx/Nginx.md",
+    "09. Automation/01. IaC",
+    "02. Computer Networks/02. Канальный уровень/02.04. Wi-Fi/Протокол MACA.md",
+    "01. Operating Systems/Unix/00.01. Команды терминала/Mkdir команда терминала.md",
+    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.02. Права и атрибуты/Атрибуты файла.md",
     "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/Типы IP-адресов.md",
+    "07. Client Server Architecture/Кластер.md",
     "01. Operating Systems/Unix/00.01. Команды терминала/Less команда терминала.md",
     "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Слой (Layer) в Docker.md",
     "01. Operating Systems/Unix/00.01. Команды терминала/Rm команда терминала.md",
-    "01. Operating Systems/Unix/00.02. Системные вызовы/Unlink системный вызов.md",
-    "03. Docker/00.02. Docker Команды/Rmi команда Docker.md",
-    "03. Docker/02. Монтирование и тома/Драйвер хранилища (Storage Driver).md",
-    "01. Operating Systems/Unix/02. Файловая система, права и контроль/02.01. Структура и ссылки/UnionFS.md",
-    "03. Docker/02. Монтирование и тома/Overlay2 (Storage Driver).md",
-    "03. Docker/00.04. Compose Команды/Ports раздел Compose.md",
-    "03. Docker/04. Docker Swarm/04.01. Компоненты кластера/Сервис в Swarm.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.01. Контейнеры и образы/Контейнер.md",
-    "03. Docker/04. Docker Swarm/Ingress Network.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Engine API.md",
-    "01. Operating Systems/Unix/04. Окружение и Bash/Командная оболочка.md",
-    "03. Docker/01. Основы Docker, контейнеры и образы/01.02. Устройство Docker/Docker Engine.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Затопление (Flooding).md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/SYN Flood.md",
-    "02. Computer Networks/04. Транспортный уровень/04.02. Протокол TCP/04.02.01. Основы/Обмен данными по протоколу TCP, защита от ошибок.md",
-    "02. Computer Networks/03. Сетевой уровень/03.02. IP-адрес, протокол IP/IP-адрес.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.02. Процессы/Процесс.md",
-    "01. Operating Systems/Unix/00.02. Системные вызовы/Fork системный вызов.md",
-    "06. Computer Architecture/02. ОЗУ/Виртуальная память.md",
-    "01. Operating Systems/Unix/01. Ядро, процессы и основы ОС/01.01. Основы ОС/Системный вызов.md",
-    "06. Computer Architecture/01. Процессор/Кольца защиты процессора (Protection Rings).md",
-    "09. Automation/03. Ansible/01. Основа/01.02. Плейбук и модели работы",
-    "09. Automation/03. Ansible/01. Основа/01.01. Ansible и инвентарь",
-    "09. Automation/03. Ansible/01. Основа",
-    "09. Automation/03. Ansible",
-    "09. Automation/02. Vagrant/03. Устройство Vagrantfile",
-    "09. Automation/02. Vagrant/00. Команды Vagrant",
-    "09. Automation/02. Vagrant/02. База Vagrant",
-    "09. Automation/02. Vagrant/01. Основы виртуализации",
-    "09. Automation/02. Vagrant",
-    "09. Automation/01. CI CD/04. CD (Доставка)"
+    "09. Automation/04. Ansible/01. Основа/01.02. Плейбук и модели работы",
+    "09. Automation/04. Ansible/01. Основа/01.01. Ansible и инвентарь",
+    "09. Automation/04. Ansible/01. Основа",
+    "09. Automation/04. Ansible",
+    "09. Automation/03. Vagrant/03. Устройство Vagrantfile",
+    "09. Automation/03. Vagrant/00. Команды Vagrant",
+    "09. Automation/03. Vagrant/02. База Vagrant",
+    "09. Automation/03. Vagrant/01. Основы виртуализации",
+    "09. Automation/03. Vagrant"
   ]
 }

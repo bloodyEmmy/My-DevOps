@@ -1,4 +1,4 @@
-#flashcards/databases 
+#flashcards/databases
 ***
 Отвечает за выбор нужных ***столбцов***.
 - Не меняет данные в базе => только выводит их на экран в виде таблицы.
@@ -18,3 +18,4 @@ SELECT * FROM person;
 ```SQL
 SELECT name, age FROM person;
 ```
+<!--SR:!2026-08-02,3,250-->

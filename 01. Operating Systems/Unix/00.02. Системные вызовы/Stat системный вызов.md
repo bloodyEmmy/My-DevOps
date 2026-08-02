@@ -1,4 +1,4 @@
-#flashcards/os/Unix 
+#flashcards/os/Unix
 ***
 Получает метаданные файла, то есть тип (файл / каталог / ссылка), [[Права доступа к файлу|права]], владелец, размер, [[Индексный узел (inode)|inode]]-номер и тд (то есть, грубо говоря, работает с содержимым inode файлов).
 ***
@@ -17,4 +17,5 @@ int stat(const char *pathname, struct stat *buf);
 int lstat(const char *pathname, struct stat *buf);
 int fstat(int fd, struct stat *buf);
 ```
+<!--SR:!2026-08-11,9,250-->
 

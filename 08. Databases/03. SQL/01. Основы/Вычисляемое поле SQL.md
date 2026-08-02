@@ -18,4 +18,4 @@ SELECT
 	price * 0.9 AS discount_price
 FROM menu;
 ```
-<!--SR:!2026-07-30,1,230-->
+<!--SR:!2026-08-03,2,210-->
