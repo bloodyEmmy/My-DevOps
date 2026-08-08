@@ -19,4 +19,4 @@ ENV <ключ>=<значение> ...
 docker run -e APP_ENV=smth myapp
 ```
 где `ENV APP_ENV=production` - слой в Dockerfile.
-<!--SR:!2026-08-04,11,230-->
+<!--SR:!2026-09-01,24,230-->
